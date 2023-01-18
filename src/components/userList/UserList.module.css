@@ -1,0 +1,16 @@
+.listForm{
+ box-shadow: 2px 2px 5px 3px gray;
+ list-style: none;
+ padding: 20px;
+ width: 650px;
+ margin: 2rem auto;
+ border-radius: 9px;
+}
+.list{
+ padding: 10px;
+ border: 2px solid gray;
+ color: black;
+ font-weight: 550;
+ text-align: start;
+ margin: 10px;
+}
